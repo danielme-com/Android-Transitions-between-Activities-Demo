@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Transitions Demo</string>
+    <string name="app_name1">Transitions #1 - danielme.com</string>
+    <string name="app_name2">Transitions #2 - danielme.com</string>
+    <string name="forwardZoom">Zoom (forward)</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="zoomBack">Zoom (back)</string>
+    <string name="fade">Fade</string>
+    <string name="bydefault">Default (forward)</string>
+   <string name="bydefaultback">Default (back)</string>    
+    
+</resources>
